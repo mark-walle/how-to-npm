@@ -1,0 +1,18 @@
+{
+  "name": "@mwalle/how-to-npm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/workshopper/how-to-npm"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Mark Walle",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
