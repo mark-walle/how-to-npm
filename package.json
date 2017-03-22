@@ -12,7 +12,5 @@
   "author": "Mark Walle",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
